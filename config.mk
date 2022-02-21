@@ -30,7 +30,7 @@ define SUBPROJECT_REPOS
 
 https://github.com/twowheelstogo/ec-api-demo.git,trunk \
 https://github.com/twowheelstogo/ec-admin-demo.git,trunk \
-https://github.com/twowheelstogo/ec-storefront-demo.git, trunk
+https://github.com/twowheelstogo/ec-storefront-demo.git,trunk
 
 endef
 
